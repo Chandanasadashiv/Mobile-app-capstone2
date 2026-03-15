@@ -19,4 +19,4 @@ This repository contains the implementation for the Mobile App Development Capst
 - GitHub for Version Control
 
 ## Author
-Harshitha KM
+chandana cs 
